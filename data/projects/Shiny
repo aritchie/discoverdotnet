@@ -1,0 +1,13 @@
+SourceCode: https://github.com/shinyorg/shiny
+NuGet:
+  - https://www.nuget.org/profiles/ShinyLib
+Language: C#
+Image: https://www.nuget.org/profiles/ShinyLib/avatar?imageSize=512
+Title: Shiny
+Description: A Xamarin Framework for Backgrounding & Device Hardware Services
+Website: https://github.com/shinyorg/shiny
+Docs: https://github.com/shinyorg/shiny
+Donations: https://github.com/sponsors/aritchie
+Twitter: https://twitter.com/shinydotnet
+Tags:
+  - xamarin nfc ble bluetoothle gps geofencing beacons jobs notifications push sensors
